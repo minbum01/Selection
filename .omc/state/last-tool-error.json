@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"cd /Users/kimtaeyeon/Desktop/무제\\\\ 폴더/Selection && git branch -m Selection_Taeyeon selection_taeyeon\",\"description\":\"Rename branch to selection_taeyeon (lowercase)\"}",
+  "error": "Exit code 128\nfatal: a branch named 'selection_taeyeon' already exists",
+  "timestamp": "2026-06-05T07:26:32.083Z",
+  "retry_count": 1
+}
